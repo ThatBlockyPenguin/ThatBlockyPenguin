@@ -3,7 +3,7 @@
 <br>
 <br>
 ## Stuff I'm working on:
-[![DeepBlue](https://github-readme-stats.vercel.app/api/pin/?username=ThatBlockyPenguin&repo=DeepBlue)](https://www.github.com/ThatBlockyPenguin/DeepBlue)
+[![LabKore](https://github-readme-stats.vercel.app/api/pin/?username=ThatBlockyPenguin&repo=LabKore)](https://www.github.com/ThatBlockyPenguin/LabKore)
 [![Pengson](https://github-readme-stats.vercel.app/api/pin/?username=ThatBlockyPenguin&repo=Pengson)](https://www.github.com/ThatBlockyPenguin/Pengson)
 <br>
 <br>
