@@ -5,12 +5,13 @@
 				.style-me {
 					padding: 1em;
 					background-color: #f44336;
-          opacity: 0.83;
+          				opacity: 0.83;
 					color: white;
 					font-family: sans-serif;
-          border: 2px solid red;
-          border-radius: 12px;
-          text-align: center;
+          				border: 2px solid red;
+          				border-radius: 12px;
+          				text-align: center;
+					width: 100%;
 				}
 			</style>
 			<div class="style-me">
